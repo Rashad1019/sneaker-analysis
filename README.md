@@ -1,6 +1,6 @@
-# 🔥 Sneaker Resell Dashboard
+# 🔥 Sneaker Resale Dashboard
 
-Welcome to the **Sneaker Resell Dashboard** – a data-driven project identifying top-performing sneakers for resale based on ROI, sell-through rate, and market trends.
+Welcome to the Sneaker Resale Dashboard – a data-driven project identifying top-performing sneakers for resale based on ROI, sell-through rate, and market trends.
 
 ## 📊 Project Summary
 This project combines visual dashboards and machine learning clustering to:
