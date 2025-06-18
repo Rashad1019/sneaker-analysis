@@ -8,6 +8,9 @@ This project combines visual dashboards and machine learning clustering to:
 - Identify high-return and fast-selling products
 - Offer insights into market-ready inventory selection
 
+## 📝 Summary Report
+Read the full [Executive Summary](./executive_summary.md) for business insights and key takeaways.
+
 ## 👥 For Different Audiences
 
 - 👟 **Non-Technical Visitors (Sneakerheads)**:  
