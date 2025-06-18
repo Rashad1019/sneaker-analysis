@@ -8,6 +8,15 @@ This project combines visual dashboards and machine learning clustering to:
 - Identify high-return and fast-selling products
 - Offer insights into market-ready inventory selection
 
+## 👥 For Different Audiences
+
+- 🧑‍💼 **Non-Technical Visitors**:  
+  👉 [Explore the visual summary here](https://rashad1019.github.io/sneaker-analysis/)  
+  This site highlights ROI, resale pricing, and top sneaker picks with interactive visuals.
+
+- 🧑‍🔬 **Technical Visitors**:  
+  Open [`analysis_main.pdf`](./analysis_main.pdf) to see the full data workflow, clustering methodology, and statistical reasoning behind the dashboard.
+
 ## 📁 Repository Structure
 - `summary_report.pdf` – Business-facing summary of key findings
 - `analysis_main.pdf` – Technical implementation notebook
